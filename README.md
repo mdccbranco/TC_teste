@@ -17,6 +17,8 @@ Com a API funcionando, inicie o projeto do react com o comando `npm start` na ra
 
 ## Pontos de melhoria já mapeados
 
+
+- [ ] Falta de feedback claro para o usuário.
 - [ ] Estilização mais fiel as telas apresentadas
 - [ ] Centralização do estado em um único componente
 - [ ] Deixar o código ainda menos repetitivo
