@@ -1,3 +1,28 @@
+# Solução proposta
+
+Para desenvolver a solução para o teste, foi utilizado o json-server para montar a "API" que foi utilizada para servir o front. 
+
+## Instalação
+
+Para rodar a "API" é necessário ter instalado o pacote do json-server. Após a instalação, navegue para a pasta /src/service e, coloque a "API" para rodar através do seguinte comando
+json-server --watch db.json --port 8000
+
+Com a API funcionando, inicie o projeto do react com o comando npm start na raiz do projeto.
+
+## Principais dificuldades
+
+* Inserir o wireframe do carro
+* Organizar os diferentes componetes e chamá-los de forma minimamente organizada
+
+## Pontos a melhorar
+
+* Estilização mais fiel as telas apresentadas
+* Centralização do estado em um único componente
+* Deixar o código ainda menos repetitivo
+
+Desde já agradeço pela oportunidade de realizar o teste e espero poder conversar e receber o feedback do trabalho realizado.
+
+
 # TradersClub
 
 Primeiramente, parabéns por atingir nossos requisitos iniciais.
