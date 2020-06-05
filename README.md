@@ -1,14 +1,14 @@
 # Solução proposta
 
-Para desenvolver a solução para o teste, foi utilizado o json-server para montar a "API" que foi utilizada para servir o front. 
+Para desenvolver a solução para o teste, foi utilizado o *json-server* para montar a "API" que foi utilizada para servir o front, escrito em *React*.
 
 ## Instalação
 
-Para rodar a "API" é necessário ter instalado o pacote [json-server!](https://www.npmjs.com/package/json-server). Após a instalação, navegue para a pasta /src/service e, coloque a "API" para rodar através do seguinte comando
+Para rodar a "API" é necessário ter instalado o pacote [json-server](https://www.npmjs.com/package/json-server). Após a instalação, navegue para a pasta /src/service e, coloque a "API" para rodar através do seguinte comando
 
 `json-server --watch db.json --port 8000`
 
-Com a API funcionando, inicie o projeto do react com o comando `npm start` na raiz do projeto.
+Com a API funcionando, inicie o projeto do react com o comando `npm start` na raiz do projeto. Deve abrir no navegador padrão a url: http://localhost:3000/ rodando o projeto.
 
 ## Principais dificuldades
 
