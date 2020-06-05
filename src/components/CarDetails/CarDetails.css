@@ -1,0 +1,15 @@
+.car-list{
+    margin: 60px;
+}
+
+.clear-button-style{
+    background: none;
+    display: block;
+    width: 100%;
+    border: none;
+    color: inherit;
+}
+
+.clear-button-style:hover{
+    background-color: #fffaf031;
+}

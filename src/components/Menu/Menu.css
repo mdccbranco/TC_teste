@@ -1,0 +1,14 @@
+.menu {
+    background-color:#0e1823;
+    height: 100vh;
+    width: 20%;
+}
+
+.menu h1 {
+    display:block;
+    background: url('../../assets/img/logo-tc.png') no-repeat;
+    width:80px;
+    height:80px;
+    text-indent:-999em;
+    margin: 40px auto;
+}
