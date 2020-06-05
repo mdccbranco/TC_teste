@@ -1,6 +1,6 @@
 # Solução proposta
 
-Para desenvolver a solução para o teste, foi utilizado o *json-server* para montar a "API" que foi utilizada para servir o front, escrito em **React**.
+Para desenvolver a solução para o teste, foi utilizado o **json-server** para montar a "API" que foi utilizada para servir o front, escrito em **React**.
 
 ## Instalação
 
